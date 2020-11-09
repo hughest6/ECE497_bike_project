@@ -1,15 +1,10 @@
 # ECE497_bike_project
 
-## Selected Bike
-*2020 Ducati Streetfighter V4*
-[Ducati Website](https://www.ducati.com/us/en/bikes/streetfighter/streetfighter-v4)
+## Introduction
+This Github repository covers designing an all electric motorcycle for ECE 497. This project will serve as an introduction to a potential performance motorcycle club hosted by the Miami University ECE department. See the Wiki for pages pertaining to the project. The sections below will give a brief overview to the project and results.
 
-## Specs
-* 1103cc Desmosedici Stradale V4 engine
-* 208 hp (153 kW) @ 12,750 rpm
-* 90.4 lb-ft (123 Nm) @ 11,500 rpm
-* Curb weight 443 lbs
-* 4.2 gallon fuel tank
-* Wheelbase: 58.6 inches
+## Chassis
 
+## Selected Components
 
+## Results & Discussion
